@@ -357,6 +357,8 @@ img {
 
 .partners .title {
   padding-top: 94px;
+  
+  font-size: 36px;
 }
 
 .partners-list {
@@ -376,6 +378,7 @@ img {
 
 .partners-list > .item {
   border: 1px solid #afb1b8;
+  border-radius: 4px;
 }
 
 .partners-list > .item:not(:last-child) {
