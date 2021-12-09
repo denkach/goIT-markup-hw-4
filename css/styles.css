@@ -80,6 +80,7 @@ img {
 }
 
 .header-contacts .svg-item {
+  fill: var(--primary-text-color);
   margin-right: 10px;
 }
 
